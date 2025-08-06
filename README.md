@@ -894,3 +894,93 @@
 - Simulate an online banking login (demo or training environment)
 - Discuss how to pay for electricity using M-Pesa or online banking
 
+
+
+
+---
+# Topic: Keyboarding
+
+## 1. Introduction to Keyboarding
+- Keyboarding is the skill of typing quickly and accurately using a keyboard.
+- It is essential for writing documents, sending emails, filling forms, and general computer use.
+
+---
+
+## 2. Understanding the Keyboard Layout
+
+### 2.1 Types of Keys
+- **Alphanumeric keys** – letters (A–Z), numbers (0–9)
+- **Function keys** – F1 to F12 for special tasks
+- **Navigation keys** – Arrow keys, Home, End, Page Up, Page Down
+- **Control keys** – Ctrl, Alt, Shift, Esc
+- **Special keys** – Enter, Spacebar, Backspace, Delete, Caps Lock, Tab
+
+### 2.2 The QWERTY Layout
+- Standard keyboard layout named after the first six letters on the top letter row
+
+---
+
+## 3. Proper Typing Posture
+- Sit up straight, feet flat on the floor
+- Keep wrists straight and fingers curved over the home row keys
+- Keep eyes on the screen, not the keyboard
+- Use both hands evenly while typing
+
+---
+
+## 4. Home Row Keys
+
+### 4.1 Home Row Position
+- Left hand fingers on: A, S, D, F
+- Right hand fingers on: J, K, L, ;
+- Thumbs rest on the spacebar
+
+### 4.2 Finger Assignments
+- Each finger is responsible for specific keys in its section
+- Practice muscle memory for efficient typing
+
+---
+
+## 5. Typing Techniques
+
+### 5.1 Touch Typing
+- Typing without looking at the keyboard
+- Improves speed and accuracy over time
+
+### 5.2 Correct Use of Shift and Caps Lock
+- Use **Shift + letter** for capital letters
+- Avoid using Caps Lock for long sentences
+
+### 5.3 Common Keyboard Shortcuts
+- `Ctrl + C` – Copy
+- `Ctrl + V` – Paste
+- `Ctrl + Z` – Undo
+- `Ctrl + S` – Save
+
+---
+
+## 6. Improving Typing Speed and Accuracy
+
+### 6.1 Start Slow, Then Increase Speed
+- Focus on accuracy first, speed will come with practice
+
+### 6.2 Use Typing Software or Websites
+- **Typing.com**
+- **Keybr.com**
+- **Ratatype**
+- **10FastFingers.com**
+
+### 6.3 Practice Drills
+- Typing alphabet lines
+- Practicing home row, top row, and bottom row
+- Timed typing tests
+
+---
+
+## 7. Practice Activities
+- Identify keys on a blank keyboard diagram
+- Type the alphabet without looking
+- Practice typing 2-3 sentences daily using typing software
+- Track and record typing speed (WPM - Words Per Minute)
+
+
