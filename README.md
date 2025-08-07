@@ -1,5 +1,31 @@
 # Computer-Operations-Course
 
+# Table of Contents
+
+1. [Introduction to Computers (Windows)](#introduction-to-computers-windows)
+2. [File and Folder Management](#file-and-folder-management)
+3. [Microsoft Word](#microsoft-word)
+4. [Microsoft Excel](#microsoft-excel)
+5. [Microsoft PowerPoint](#microsoft-powerpoint)
+6. [Microsoft Outlook](#microsoft-outlook)
+7. [Internet and Web Browsing](#internet-and-web-browsing)
+   - [Connecting to the Internet](#connecting-to-the-internet)
+   - [Types of Browsers](#types-of-browsers)
+   - [Browser Navigation](#browser-navigation)
+8. [Keyboarding](#keyboarding)
+9. [Basic Computer Maintenance](#basic-computer-maintenance)
+   - [Hardware](#hardware)
+   - [Software](#software)
+   - [Security and Antivirus Use](#security-and-antivirus-use)
+10. [Introduction to Cloud Storage](#introduction-to-cloud-storage)
+    - [Google Drive](#google-drive)
+    - [OneDrive](#onedrive)
+11. [Printing, Scanning, and Use of Peripherals](#printing-scanning-and-use-of-peripherals)
+12. [Digital Services](#digital-services)
+    - [eCitizen](#ecitizen)
+    - [KRA (iTax)](#kra-itax)
+    - [Online Banking](#online-banking)
+    - [Other Government and Mobile Services](#other-government-and-mobile-services)
 
 # Topic 1: Introduction to Computers (Windows)
 
