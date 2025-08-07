@@ -3,29 +3,19 @@
 # Table of Contents
 
 1. [Introduction to Computers (Windows)](#topic-1-introduction-to-computers-windows)
-2. [File and Folder Management](#file-and-folder-management)
-3. [Microsoft Word](#microsoft-word)
-4. [Microsoft Excel](#microsoft-excel)
-5. [Microsoft PowerPoint](#microsoft-powerpoint)
-6. [Microsoft Outlook](#microsoft-outlook)
-7. [Internet and Web Browsing](#internet-and-web-browsing)
-   - [Connecting to the Internet](#connecting-to-the-internet)
-   - [Types of Browsers](#types-of-browsers)
-   - [Browser Navigation](#browser-navigation)
-8. [Keyboarding](#keyboarding)
-9. [Basic Computer Maintenance](#basic-computer-maintenance)
-   - [Hardware](#hardware)
-   - [Software](#software)
-   - [Security and Antivirus Use](#security-and-antivirus-use)
-10. [Introduction to Cloud Storage](#introduction-to-cloud-storage)
-    - [Google Drive](#google-drive)
-    - [OneDrive](#onedrive)
-11. [Printing, Scanning, and Use of Peripherals](#printing-scanning-and-use-of-peripherals)
-12. [Digital Services](#digital-services)
-    - [eCitizen](#ecitizen)
-    - [KRA (iTax)](#kra-itax)
-    - [Online Banking](#online-banking)
-    - [Other Government and Mobile Services](#other-government-and-mobile-services)
+2. [File and Folder Management](#topic-2-file-and-folder-management)
+3. [Microsoft Word](#topic-3-microsoft-word)
+4. [Microsoft Excel](#topic-4-microsoft-excel)
+5. [Microsoft PowerPoint](#topic-5-microsoft-powerpoint)
+6. [Microsoft Outlook](#topic-6-microsoft-outlook)
+7. [Internet and Web Browsing](#topic-7-internet-and-web-browsing)
+8. [Basic Computer Maintenance](#topic-8-basic-computer-maintenance)
+   
+9. [Introduction to Cloud Storage](#topic-9-introduction-to-cloud-storage-google-drive-onedrive)
+   
+10. [Printing, Scanning, and Use of Peripherals](#topic-10-printing-scanning-and-use-of-peripherals)
+11. [Digital Services](#topic-11-digital-services-ecitizen-kra-online-banking-etc)
+12. [Keyboarding](#topic-12-keyboarding)
 
 # Topic 1: Introduction to Computers (Windows)
 
@@ -924,7 +914,7 @@
 
 
 ---
-# Topic: Keyboarding
+# Topic 12: Keyboarding
 
 ## 1. Introduction to Keyboarding
 - Keyboarding is the skill of typing quickly and accurately using a keyboard.
