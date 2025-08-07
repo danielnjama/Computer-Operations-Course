@@ -2,7 +2,7 @@
 
 # Table of Contents
 
-1. [Introduction to Computers (Windows)](#introduction-to-computers-windows)
+1. [Introduction to Computers (Windows)](#topic-1-introduction-to-computers-windows)
 2. [File and Folder Management](#file-and-folder-management)
 3. [Microsoft Word](#microsoft-word)
 4. [Microsoft Excel](#microsoft-excel)
